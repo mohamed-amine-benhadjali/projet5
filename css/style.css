@@ -39,3 +39,24 @@ h2{
     color: white;
     font-weight: bolder;
 }
+.cnt{ 
+    color: red;
+    font-size: 70px;
+    margin-bottom: 10%;
+}
+input ,select,textarea{ 
+    background-color: azure !important;
+    border-radius: 10px !important;
+    border: black 2px solid !important;
+}
+#bt{ 
+    background-color: black;
+    color: white;
+    width: 100%;
+}
+#bt:hover{ 
+    background-color: white;
+    color:black;
+    width: 100%;
+    border: black 2px solid;
+}
